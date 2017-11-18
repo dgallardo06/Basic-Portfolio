@@ -80,7 +80,7 @@ h3{
 	margin: 25px 0px;
 }
 
-section img{
+.bioPic{
 	height: 330px;
 	float: left;
 	margin: 40px;
@@ -156,4 +156,32 @@ button{
 	margin-top: 15px;
 	height: 50px;
 	width: 100px;
+}
+
+
+/********************Portfolio Specific Styles*****************/
+
+.portfolio{
+	height: 900px;
+}
+
+.portpic {
+	height: 200px;
+}
+
+figcaption {
+	background-color: #4aaaa5;
+	color: white;
+	height: 60px;
+	width: 267px;
+	position: relative;
+	bottom: 70px;
+}
+
+.left {
+	float: left;
+}
+
+.margin {
+	margin: 40px;
 }
