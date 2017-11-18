@@ -124,3 +124,36 @@ footer {
 	bottom: 0;
 	width: 100%;
 }
+
+/**************Contact Specific Styles******************/
+
+form {
+	margin: 40px;
+}
+
+label{
+	font-weight: bold;
+}
+
+#name, #mail, #msg{
+	width: 100%;
+}
+
+input{
+	color: inherit;
+	margin-bottom: 15px;
+	height: 30px;
+}
+
+textarea{
+	height: 150px;
+}
+button{
+	background-color: #4aaaa5;
+	color: white;
+	font-size: 20px;
+	border: none;
+	margin-top: 15px;
+	height: 50px;
+	width: 100px;
+}
